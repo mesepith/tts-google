@@ -1,7 +1,25 @@
 node_modules
 dist
-.env
-.DS_Store
+
 google-stt-tts.json
 *.pem
 *.key
+
+server/node_modules/*
+
+# Node
+server/node_modules/
+server/npm-debug.log*
+
+# Env
+.env
+server/.env
+client/.env
+
+# Build outputs
+client/dist/
+client/build/
+client/node_modules/*
+
+# OS
+.DS_Store
