@@ -1,0 +1,7 @@
+node_modules
+dist
+.env
+.DS_Store
+google-stt-tts.json
+*.pem
+*.key
