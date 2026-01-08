@@ -23,3 +23,6 @@ client/node_modules/*
 
 # OS
 .DS_Store
+
+server/package-lock.json
+client/package-lock.json
