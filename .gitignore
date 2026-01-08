@@ -26,3 +26,6 @@ client/node_modules/*
 
 server/package-lock.json
 client/package-lock.json
+
+code_dump_*.html
+code_dump_*.txt
