@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-PROJECT_ROOT="/private/var/www/html/dev-app/real-time-multilingual-stt"
+PROJECT_ROOT="/private/var/www/html/dev-app/tts-google"
 cd "$PROJECT_ROOT"
 
 TS="$(date +"%Y%m%d-%H%M%S")"
