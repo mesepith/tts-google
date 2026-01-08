@@ -41,6 +41,7 @@ find . \
   -type f \( \
       -name "package-lock.json" -o \
       -name ".env" -o \
+      -name "google-stt-tts.json" -o \
       -name ".DS_Store" -o \
       -name "DS_Store" -o \
       -name "README.md" -o \
